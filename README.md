@@ -10,4 +10,4 @@
 6. npm i
 7. npm run start
 
-** the first init DB ahs some data already.
+** the first init DB include some data already.
