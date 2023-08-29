@@ -10,4 +10,4 @@
 6. npm i
 7. npm run start
 
-** the first init DB include some data already.
+** there is the screen recording explanation in the file: `video_explanation.mp4`
